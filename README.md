@@ -1,0 +1,2 @@
+# Stonkinator
+Predicts stocks
